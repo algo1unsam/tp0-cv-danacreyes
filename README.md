@@ -1,6 +1,6 @@
 # TP0-CV
 
-##  ⋅˚₊‧ ୨ Dana Cossettini Reyes ୧ ‧₊˚ ⋅
+##  ⋅˚₊‧Dana Cossettini Reyes‧₊˚ ⋅
 
 Soy estudiante en programación informática en la UNSAM. Soy una persona organizada y con mucha dedicación. Tengo conocimiento en python, c, html, css y assembler.
 
